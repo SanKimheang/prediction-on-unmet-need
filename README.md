@@ -216,13 +216,3 @@ Through this project, I gained practical experience in:
 - Translating machine learning results into actionable policy insights
 
 ---
-
-## 🔮 Future Improvements
-
-- Incorporate deep learning models for comparison.
-- Evaluate ensemble and stacking techniques.
-- Integrate geographic and temporal variables.
-- Develop a web-based prediction system for healthcare practitioners.
-- Deploy the model using FastAPI or Streamlit for real-time predictions.
-
----
